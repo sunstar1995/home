@@ -15,9 +15,9 @@
     "link": "https://hexo.sjava.cn/music/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://home.sjava.cn/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.sjava.cn/"
   },
   {
     "icon": "Book",
@@ -28,10 +28,5 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://s.weibo.com/top/summary/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": ""
   }
 ]
