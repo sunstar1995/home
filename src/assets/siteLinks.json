@@ -15,9 +15,9 @@
     "link": "https://hexo.sjava.cn/music/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.sjava.cn/"
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.sjava.cn/"
   },
   {
     "icon": "Book",
@@ -25,8 +25,8 @@
     "link": "https://quick.sjava.cn/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://s.weibo.com/top/summary/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.sjava.cn/"
   }
 ]
