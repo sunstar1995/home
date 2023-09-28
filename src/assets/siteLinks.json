@@ -6,8 +6,18 @@
   },
   {
     "icon": "Blog",
+    "name": "Typecho博客",
+    "link": "https://blog.sjava.cn/"
+  },
+  {
+    "icon": "Blog",
     "name": "Halo博客",
     "link": "https://lx95.top/"
+  },
+  {
+    "icon": "Blog",
+    "name": "我的相册",
+    "link": "https://photo.sjava.cn/"
   },
   {
     "icon": "CompactDisc",
