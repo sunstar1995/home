@@ -2,11 +2,11 @@
   {
     "icon": "Blog",
     "name": "Hexo博客",
-    "link": "https://hexo.sjava.cn/"
+    "link": "https://sjava.cn/"
   },
   {
     "icon": "Blog",
-    "name": "Typecho博客",
+    "name": "朋友圈",
     "link": "https://blog.sjava.cn/"
   },
   {
@@ -22,7 +22,7 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://hexo.sjava.cn/music/"
+    "link": "https://music.sjava.cn/"
   },
   {
     "icon": "Fire",
@@ -33,6 +33,11 @@
     "icon": "Book",
     "name": "知识速查",
     "link": "https://quick.sjava.cn/"
+  },
+  {
+    "icon": "Book",
+    "name": "文档库",
+    "link": "https://wiki.sjava.cn/"
   },
   {
     "icon": "LaptopCode",
